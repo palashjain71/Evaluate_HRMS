@@ -1,0 +1,11 @@
+com\performance\evaluate\HRMS\entity\Department.class
+com\performance\evaluate\HRMS\entity\Goals.class
+com\performance\evaluate\HRMS\entity\UserCredential.class
+com\performance\evaluate\HRMS\entity\Project.class
+com\performance\evaluate\HRMS\entity\Employee.class
+com\performance\evaluate\HRMS\entity\Domain.class
+com\performance\evaluate\HRMS\entity\Address.class
+com\performance\evaluate\HRMS\entity\Feedback.class
+com\performance\evaluate\HRMS\entity\LeaveType.class
+com\performance\evaluate\HRMS\entity\Profile.class
+com\performance\evaluate\HRMS\HrmsApplication.class
